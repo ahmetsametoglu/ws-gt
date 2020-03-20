@@ -4,4 +4,5 @@ interface Company {
   name: string;
   tva: string;
   telephone: string;
+  field2: number;
 }
